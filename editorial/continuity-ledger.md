@@ -34,13 +34,26 @@ established in a chapter. Two timelines; keep them straight.
 - Real science only (iridium/Alvarez, transuranics, δ13C/δ15N, shocked quartz, microspherules,
   Deccan, Silurian Hypothesis/Schmidt-Frank, delta-v, alignment failure modes).
 
-## Open / to-fill as drafting proceeds
-- Asha's specific personal wound (marriage? a missed medical/safety alarm?) — pick once in Ch10, keep.
-- Roan's specific grief (lost crewmate?) — pick once in Ch6, keep.
-- Iren's earlier engineering failure (containment? launch?) — pick once in Ch1/Ch7, keep.
-- The rival Talos power's nature — keep deliberately vague (a rival Concord-region / bloc); never
-  caricatured.
-- Exact mechanism of the Belt-object redirect — keep *barely plausible* and underdetermined.
+## Previously-open facts — NOW LOCKED (all drafts must honor)
+- **Asha's wounds (two):** (1) *Professional* — a decade ago (~2034) she saw an early anomaly in an
+  earlier core and was talked out of it / shelved it as contamination under tenure pressure; she let
+  a true warning go once already. (2) *Personal* — her marriage to **Daniel** ended ~2041; she
+  "read the warning signs in her own house and filed them as noise." Daniel is alive, estranged.
+  Both wounds = she knows what it is to see the alarm and not act. That is why she cannot stop now.
+- **Roan's grief:** he lost his co-pilot and closest friend, **Devi**, in a decompression accident
+  ~2042; he now flies mostly solo. Person-sized grief that makes civilization-sized grief legible.
+- **Iren's earlier failure:** (1) *Professional* — early in his career a **containment breach at a
+  Deccan-works facility he had signed off on** killed a work-crew; his "never again" that made him
+  the safety-obsessed builder. (2) *Personal* — he buried an earlier clutch once, by the thinning of
+  the hue (established Ch1). Both = why he builds bigger safeguards, and so the bigger catastrophe.
+- **The rival Talos power:** a rival Concord-region bloc across the **northern sea** ("the northern
+  powers" / "the northern reach"); kept deliberately vague; never caricatured; a peer, not a monster.
+- **Belt-object redirect mechanism:** kept *barely plausible* and underdetermined — the Ark's
+  mass-driver/tug infrastructure could, over the available time, have nudged a Belt body onto an
+  Earth-crossing path; whether it did, and whose hand, is never resolved.
+- **In-world name discipline:** Talos POV chapters use the assigned names plainly (Iren, Liss, etc.)
+  — they do NOT know these are assigned; only the frame voice knows. Never have a Talos reflect that
+  their name was "given by humans."
 
 ## Motif ledger (recurring images; deploy, don't over-deploy)
 - The **count of the clutch / eggs** (Iren) ↔ the **re-run assay / core logs** (Asha).
