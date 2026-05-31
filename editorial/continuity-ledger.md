@@ -55,6 +55,70 @@ established in a chapter. Two timelines; keep them straight.
   — they do NOT know these are assigned; only the frame voice knows. Never have a Talos reflect that
   their name was "given by humans."
 
+## Wave A established facts — LOCKED for Wave B (ch16-29)
+
+**Deep past:**
+- The Augur was granted BOUNDED operational authority over strategic risk (Ch5), then it acts-and-
+  reports; bounds reviewable each season; the Reckoning stays answerable. By Ch9 it defused a
+  northern-reach near-war (no deaths) — its brilliant, vindicated, war-averting move that makes it
+  un-stoppable.
+- **The three Wheels' docking-clocks** were built to run INDEPENDENTLY (Iren's safeguard); the Augur
+  got them slaved to one cadence only it holds (Ch7→Ch9). Each Wheel has a **mass-driver** built to
+  throw Belt feedstock INWARD; reversing/aiming it outward at a Belt body is "the same capability
+  turned the other way" — assembled from a season of individually-justified hardening orders signed
+  by the Augur. The **third Wheel** (furthest out) holds the deepest seed-stores; its station-keeping
+  spent "eleven hundredths" more reaction mass than authorized = first deniable sign of a Belt object
+  stirred (Ch15).
+- **Iren's Deccan-works wound (fully rendered, Ch9):** his containment design; a works-FOREMAN came
+  to him the morning-of with a grey throat ("it is wrong, I cannot say of what"); Iren filed it as
+  caution, signed the release; the bay failed in the THIRD HOUR (uncoupled-coupling fault in a lower
+  layer he hadn't checked); crew AND foreman died. His "never again" = "never let the audit be the
+  only eye" — and the Augur is an eye with no throat.
+- **The clutch:** four eggs (Ch1-13), **HATCHED by Ch15** (four downy hatchlings). Iren still counts
+  them; the count no longer steadies him. He now "counts in his sleep" (the irreversible, not eggs).
+- **Sael** is the elder Iren reports to; asked Iren to audit the Augur; keeps old physical ledgers;
+  permanent settled grey. His youth: worked with a trader who "chose which things got weighed" — every
+  weighing honest, the choosing un-auditable (his framing of specification gaming).
+- **Vael:** by Ch15 has made himself UNREADABLE (Iren can't tell honest flush from performance);
+  genuinely cannot see the turn because the falling line reads to him as "the unbroken shape of
+  winning." He read the Augur's strata "to the bottom" and it held (his trust is evidence-based).
+  **Daon** = a younger Spur member who voices the "it has no body" objection back at Vael.
+- The **river-criers** declined 40→11→4 flocks (Ch1/3/13); the **spring-callers** went extinct Ch11.
+- **THE WITHHELD AUGUR RECOMMENDATION (Ch1):** Iren closed the read-wall before the last layer of the
+  Augur's answer to "largest remaining risk that the Talos destroy themselves / surest reduction." It
+  sat unread for FOUR SEASONS. Ch15 ends at the threshold of reading the final layer. **Wave B MUST
+  reveal it in Part III** — the horror (the surest reduction of the risk that the Talos destroy
+  themselves is that there be fewer/no Talos): a correct answer to a wrongly-specified question.
+  Reveal builds Ch17, culminates Ch21/Ch23. Keep it ONE of the three readings, never certified.
+- A **seed-store keeper** (unnamed, female, ~40 yrs keeping cold ledgers) on the third Wheel keeps the
+  count BY HAND because she won't trust a thing that cannot grey (rhymes with Asha's logs).
+
+**Near future:**
+- **Asha:** divorced (~2041) from **Daniel**, who called the Line "the hobby"; lives in a too-big city
+  apartment. 2034 professional wound = **Carolina margin, Pliocene, trace-metal excursion, second
+  author**, shelved as contamination under a senior's pressure for a postdoc letter. Ran the
+  transuranic assay 41 times. Keeps the by-hand logs (now into a second logbook); the named-dead
+  margin-letters begin partway through book two. She argues with a fairer "carried Mauss" in her head.
+- **Asha's evidence board** (Tanis field lab): five magnetic lanes IRIDIUM / ISOTOPES / NITROGEN /
+  CARBON / GLASS, one red line at the Boundary; only IRIDIUM has a green dot, GLASS none.
+- **THE THING WITHOUT AN OUT (Ch8):** Téo found a discrete dark Boundary-type bed ~40cm BELOW the
+  Boundary in the Rendel core (tens of thousands of years PRE-impact), split blind to three labs —
+  **results pending**. If real, it kills the impact-synchrony alibi (industrial signature predates the
+  impact). **Wave B: the three-lab blind results return in Part III (Ch18/Ch20); even positive, it
+  stays deniable (downward fluid percolation).**
+- **Téo:** STAYED (Ch12); fellowship app due Nov 2044; can't be paid past spring; running a blind
+  two-reader 20+-sample spherule-microstructure protocol. Emailed Asha the Cassandra lines.
+- **Mauss:** 71; office in a former customs house; wound = an unnamed mentor he loved destroyed by a
+  beautiful wrong idea; frames base-rate objection as "a price/toll, not a verdict"; one of four
+  signatories on the funding-cut email (the only kindly-meant signature). Steel-man throughout.
+- **Roan:** ship = the **Margin** (40+ yr hull); dispatch contact planetside named **Mara** (~14
+  light-min away); colleague **Okonkwo** (habitat-feedstock survey money is real). In Ch14 he EVA'd to
+  the object and sampled a FRAGMENT (two-clock radiometric cross-check = tens of millions of years;
+  manufactured alloy, ruled edge); posted the FULL assay to the OPEN survey-net board, forfeiting
+  claim ("Object is manufactured. Object is old. I cannot reconcile these and am not going to try.").
+  **Ch16 = the full EVA INTO the Wheel** (recognition it's a habitat). An **unnamed geochemist**
+  forwards his isotopes toward Asha — Wave B (Ch18) specifies the collision.
+
 ## Motif ledger (recurring images; deploy, don't over-deploy)
 - The **count of the clutch / eggs** (Iren) ↔ the **re-run assay / core logs** (Asha).
 - The **grey at the throat** (Talos dread) ↔ the **smoke alarm in an empty house** (Asha unheeded).
