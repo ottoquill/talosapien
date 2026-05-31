@@ -85,7 +85,7 @@ She watched him take the shape of the thing—that there was no centimeter of cl
 
 "I'm sorry," she said. "You did it exactly right. The protocol was clean. You killed a real alibi and you'll get no credit and they'll have a new one by lunch. That's not your failure. That's the job. I should have told you the job before I let you fall in love with it." She thought of an advisor, a decade gone, telling her gently where the rocks were. "You can still get out clean," she said. "The fellowship. None of this is on a paper with your name yet. I'll write you the letter myself and I'll write it true and it'll be a good letter."
 
-Téo squared the three reports the way she had, an unconscious mirror, and did not pick up the exit she had set down in front of him for the second time. "Walk me through percolation," he said instead. "Porosity, the lot. If we can't disprove it, I want to know exactly how indisprovable, so I can say the size of the wall out loud. You taught me that."
+Téo squared the three reports the way she had, an unconscious mirror, and did not pick up the exit she had set down in front of him for the second time. "Walk me through percolation," he said instead. "Porosity, the lot. If we can't disprove it, I want to know exactly how far past disproving it is, so I can say the size of the wall out loud. You taught me that."
 
 ◆
 
