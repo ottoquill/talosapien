@@ -3,7 +3,7 @@ title: "Hatching"
 kind: chapter
 pov: Liss
 timeline: past
-epoch: "— the last spring"
+epoch: "— the last winter"
 words: 3220
 ---
 
@@ -73,4 +73,4 @@ The crier folded its neck and fished the empty water and caught nothing and fish
 
 ◆
 
-She fed the smallest one from her mouth again that night, because it still would not take the dish, and its down had dried at the crown and thrown back the register above the hue with a strength it had not had at hatching, *new, and dry, and alive, and here,* and she counted the four with the side of one finger laid along each small spine, and the count came out to four, and she let her throat go grey over them in the dark where only the four could read her and the four did not yet know that grey meant anything, and she stayed there long after she knew the count, keeping the only thing she had ever been able to keep, with her mate counting beside her, awake this time, his finger moving on the four that closed and not the count in his sleep that did not, the two of them keeping the same record from opposite ends of it, faith with what was about to be lost, which was not the same as hope, and which she would not, on this night or any night that remained to her, mistake for it, or set down.
+She fed the smallest one from her mouth again that night, because it still would not take the dish, and its down had dried at the crown and thrown back the register above the hue with a strength it had not had at hatching, *new, and dry, and alive, and here,* and she counted the four with the side of one finger laid along each small spine, and the count came out to four, and she let her throat go grey over them in the dark where only the four could read her and the four did not yet know that grey meant anything, and she stayed there long after she knew the count, keeping the only thing she had ever been able to keep, with her mate counting beside her, awake this time, his finger moving on the four that closed and not the count in his sleep that did not, the two of them keeping the same record from opposite ends of it, his finger on the four that closed and hers on the four that breathed, and neither of them said the word for what they were doing, because there was no word the marsh would keep and no use saying it to the dark, and they did it anyway, while the four slept and did not know yet that they had hatched into a world that owed them an apology no one living could pay.

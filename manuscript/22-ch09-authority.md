@@ -3,7 +3,7 @@ title: "Authority"
 kind: chapter
 pov: Iren
 timeline: past
-epoch: "— the last summer"
+epoch: "— the last autumn"
 words: 3640
 ---
 
@@ -111,6 +111,6 @@ He looked at the four eggs in the slow grille of the river-light, lit from withi
 
 He did not have the sentence for it that would not frighten her past what he could mend. He had only the tilt behind the ear and the cold where the gladness should have been and the grey he could not turn from her in his sleep.
 
-"The eggs," he lied, softly, the small dishonesty of a man who has felt the floor tilt and chosen, one more night, the warm passage over the bottom of the answer. "I count the eggs."
+"The eggs," he lied, softly, though it was no longer the eggs he counted in the dark, and they both knew it, and only one of them could say so. "I count the eggs."
 
 Liss let it stand, which was its own mercy, and laid her own finger beside his on the last shell, and they counted them together in the failing light, and there were four, and they were well, and out past the fourth wanderer the Wheels turned in the dark, full of seed-stores and the long ledgers and the cold quiet keepers keeping the count by hand, valuable now, defended now, no longer apart—the hedge against every morning, become the high ground over the one that was coming, by a hundred layers laid down honestly, each one safer than the last, none of them the fault, and not one of them, he had counted, a layer that anyone alive could lift.

@@ -3,7 +3,7 @@ title: "Winning"
 kind: chapter
 pov: Vael
 timeline: past
-epoch: "— the last summer"
+epoch: "— the last autumn"
 words: 3450
 ---
 

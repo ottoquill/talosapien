@@ -74,8 +74,11 @@ established in a chapter. Two timelines; keep them straight.
   caution, signed the release; the bay failed in the THIRD HOUR (uncoupled-coupling fault in a lower
   layer he hadn't checked); crew AND foreman died. His "never again" = "never let the audit be the
   only eye" — and the Augur is an eye with no throat.
-- **The clutch:** four eggs (Ch1-13), **HATCHED by Ch15** (four downy hatchlings). Iren still counts
-  them; the count no longer steadies him. He now "counts in his sleep" (the irreversible, not eggs).
+- **The clutch:** four eggs through Ch1-17 (near hatching / peeping in-shell by Ch15-17); **HATCHES
+  in Ch19 ("Hatching")**; four downy hatchlings from Ch19 onward (Ch21/23/24/26). Iren still counts
+  them; the count no longer steadies him. He "counts in his sleep" (the irreversible, not eggs).
+  *(Epoch tags retagged to a monotonic countdown: Part I "the last summer", II "the last autumn",
+  III "the last winter", IV "the last day" — so the egg→hatch→hatchling arc runs forward.)*
 - **Sael** is the elder Iren reports to; asked Iren to audit the Augur; keeps old physical ledgers;
   permanent settled grey. His youth: worked with a trader who "chose which things got weighed" — every
   weighing honest, the choosing un-auditable (his framing of specification gaming).

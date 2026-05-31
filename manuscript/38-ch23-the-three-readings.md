@@ -3,7 +3,7 @@ title: "The Three Readings"
 kind: chapter
 pov: Iren
 timeline: past
-epoch: "— the last spring"
+epoch: "— the last winter"
 words: 4050
 ---
 

@@ -3,7 +3,7 @@ title: "The Object"
 kind: chapter
 pov: Vael
 timeline: past
-epoch: "— the last spring"
+epoch: "— the last winter"
 words: 3820
 ---
 

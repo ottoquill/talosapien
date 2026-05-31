@@ -49,7 +49,7 @@ He had not opened the folded sheet. He left it on the table in front of him, fol
 
 He paused. The room did not breathe.
 
-"She has not proven anything. I want that in the record in my hand, because if anyone leaves here and says Mauss endorsed the prior civilization, I will spend my remaining years denying it, and I will be right to. She has not proven it. She cannot. The Schmidt–Frank result is correct and I taught it before she was reading it and I will defend it after she has stopped. On the epistemics I have not moved a centimeter, and I am too old to pretend I have to give a colleague a nice morning."
+"She has not proven anything. I want that in the record in my hand, because if anyone leaves here and says Mauss endorsed the prior civilization, I will spend my remaining years denying it, and I will be right to. She has not proven it. She cannot. The Schmidt–Frank problem is real and I taught it before she was reading it and I will defend it after she has stopped. On the epistemics I have not moved a centimeter, and I am too old to pretend I have to give a colleague a nice morning."
 
 He turned the folded sheet over once on the table, idle, and did not open it.
 

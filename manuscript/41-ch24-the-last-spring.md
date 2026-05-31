@@ -3,7 +3,7 @@ title: "The Last Spring"
 kind: chapter
 pov: Liss
 timeline: past
-epoch: "— the last spring"
+epoch: "— the last day"
 words: 3210
 ---
 
