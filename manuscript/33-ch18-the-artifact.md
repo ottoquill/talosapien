@@ -4,7 +4,7 @@ kind: chapter
 pov: Asha
 timeline: future
 epoch: "autumn 2044"
-words: 3650
+words: 4225
 ---
 
 # The Artifact
@@ -29,7 +29,7 @@ She called Priya.
 
 "I read it."
 
-"I want to be the careful one here," Priya said, in the voice she used for committees, the voice that had kept her employed by people who did not put their names on letterhead. "So tell me where I'm wrong. Because I sat with this for two hours doing the thing I do, which is finding the boring source, and I want you to find it for me. Modern alloy, modern contamination, a prospector's machine miscalibrated, a salt that mimics the lines. I went down the whole list. Asha." A pause that cost her something. "It's not on the list. The cross-check is on two clocks. The skew is real. I'd certify it for a tribunal. The only thing wrong with it is that it can't be true."
+"I want to be the careful one here," Priya said, in the voice she used for committees, the voice that had kept her employed by people who did not put their names on letterhead. "So tell me where I'm wrong. I sat with this for two hours doing the thing I do, which is finding the boring source. Modern alloy, modern contamination, a prospector's machine miscalibrated, a salt that mimics the lines. I went down the whole list. Asha." A pause that cost her something. "It's not on the list. The cross-check is on two clocks. The skew is real. I'd certify it for a tribunal. The only thing wrong with it is that it can't be true."
 
 "It can't be true if we're first," Asha said.
 
@@ -39,7 +39,7 @@ It was not a question Asha could answer, because answering it would feel like wi
 
 "They're closer tonight than they were yesterday," Priya said. "There's a physical object. You can't subduct a physical object. You can't call a ruled edge diagenesis." And then, because she was honest, because they had both been trained by the same brutal kind people: "They'll say it's space junk. They'll say the dates are a prospector's arithmetic and the alloy's one of ours from a probe that broke up, and that the isotopes are a measurement artifact at the edge of a machine that was built to tell nickel from iron. They'll have an out, Asha. There's always an out."
 
-"I know," Asha said. She was looking at Roan Iyer's name on the board, and the empty contact field beside it, and the long ugly number of light-minutes the header gave for the object's last known position. "But it's a different *kind* of out. With the clay, the out lived inside the rock—it was the rock's own ambiguity, built in, permanent. This out lives in their heads. They have to *choose* to believe a coincidence. And that's still a wall, but it's a wall I can at least see who's holding."
+"I know," Asha said. She was looking at Roan Iyer's name on the board, and the empty contact field beside it. "But it's a different *kind* of out. With the clay, the out lived inside the rock—the rock's own ambiguity, built in, permanent. This out lives in their heads. They have to *choose* to believe a coincidence. That's still a wall, but it's a wall I can at least see who's holding."
 
 ◆
 

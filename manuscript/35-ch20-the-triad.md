@@ -4,7 +4,7 @@ kind: chapter
 pov: Asha
 timeline: future
 epoch: "Chicxulub · autumn 2044"
-words: 3650
+words: 4150
 ---
 
 # The Triad
@@ -61,7 +61,7 @@ She drove back to the repository in the morning to return the chair, because Oka
 
 He was in the cold room with a tray of the breccia out, the melt rock, the stuff that had the planar features everywhere, and he showed her, because she had asked good questions and he wanted to give her the good rock. She bent over the scope and there they were, the lines, in grain after grain, two sets crossed, three sets in one, a whole field of crystals that had each privately recorded the same instant of unsurvivable pressure and kept it, faithfully, indifferently, for the whole of deep time. A library of one afternoon. Every volume saying the same sentence.
 
-"People come and they want the iridium," Okafor said, racking the tray. "The iridium's the famous one. But the iridium just tells you something fell. The quartz tells you how hard. The quartz is the honest one." He said it the way men who lived with rock said things, plainly, not knowing he had handed her the whole book. "You can argue the iridium. Volcanism, people used to say, the iridium could be the Deccan. Nobody could ever argue the quartz. You don't get planar deformation features from a volcano. You only get them from the sky coming down. So the quartz is the thing that ended the argument. The thing without an out."
+"People come and they want the iridium," Okafor said, racking the tray. "The iridium's the famous one. But the iridium just tells you something fell. The quartz tells you how hard. The quartz is the honest one." He said it the way men who lived with rock said things, plainly, not knowing he had handed her the whole book. "You could argue the iridium. Volcanism, people used to say. Nobody could ever argue the quartz. You only get those lines from the sky coming down. So the quartz is the thing that ended the argument. The thing without an out."
 
 She straightened up from the scope. Her hands were cold and the rest of her was colder.
 
