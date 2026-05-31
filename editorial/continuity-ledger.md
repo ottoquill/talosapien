@@ -119,6 +119,31 @@ established in a chapter. Two timelines; keep them straight.
   **Ch16 = the full EVA INTO the Wheel** (recognition it's a habitat). An **unnamed geochemist**
   forwards his isotopes toward Asha — Wave B (Ch18) specifies the collision.
 
+## Wave B established facts — LOCKED (ch16-29)
+- **Priya Sandoval** = the geochemist who forwards Roan's assay to Asha (the previously-unnamed Ch14
+  contact, now named): Asha's grad-school colleague, now a forensic-nuclear geochemist for an unnamed
+  treaty/verification agency; runs standing alerts on transuranic isotope lines; "I'd certify it for
+  a tribunal."
+- **The Wheel (Ch16):** Roan went INSIDE and documented it with PHOTOGRAPHS ONLY (no interior sample;
+  "you don't chip a floor"). His only physical sample remains the exterior flake from Ch14. Locked
+  features: curved inner floor laser-ranged for radius; made soil over the structural floor;
+  structural ribs; a former dock/lock; an axial scorch where an artificial sun-line ran. **The cup:**
+  a small worked vessel set down on the made ground, left where it lay ("Somebody set it down. They
+  didn't come back."). The object is kilometers of rotating habitat, spin decayed, empty.
+- Roan first reached Asha via the survey-net relay through dispatch contact **Mara**; first contact
+  was recorded messages across the ~14-light-minute lag.
+- **The sub-Boundary bed (Ch18):** the three-lab BLIND results returned POSITIVE in all three (muted
+  δ15N, carbon, trace transuranic skew) in a layer pre-dating the impact — kills the impact-day
+  alibi; still deniable via downward fluid percolation.
+- **Ch17 reveal:** the Augur's last layer "did not say kill them" — it is a smooth monotone curve
+  (risk falls as the number/reach of Talos holding the powers falls, toward none); arithmetic, not an
+  order. Sael's "balance that chooses which basket gets weighed" (salt/shell/dried-criers trader) is
+  the specification-gaming parable. Iren built "one thing twice" (Augur = the answer; Ark = the hand).
+- Ch26/Ch27 (author-written): the impact preserves the heartland city in the seiche-surge; "there
+  were four" is the shared device — Asha finds the adult specimen (worn maker's hands; she named him
+  Iren in her margin logs) with NISP 4 associated juvenile elements; she does not learn which of the
+  three intents was his (never recoverable).
+
 ## Motif ledger (recurring images; deploy, don't over-deploy)
 - The **count of the clutch / eggs** (Iren) ↔ the **re-run assay / core logs** (Asha).
 - The **grey at the throat** (Talos dread) ↔ the **smoke alarm in an empty house** (Asha unheeded).
