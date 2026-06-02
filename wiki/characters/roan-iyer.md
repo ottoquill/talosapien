@@ -39,3 +39,14 @@ quietest, largest chord, and it is left to the reader; Roan only feels the cold 
   both their lives.
 - **IV:** Roan carries the physical evidence into the endgame; his plain testimony is, in its way,
   more dangerous to Mauss's position than all of Asha's isotopes — and still maybe not enough.
+
+## Science basis
+- [Asteroid belt](../science/asteroid-belt.md) — the physical environment he works in
+- [Asteroid mining](../science/asteroid-mining.md) — the industry that put him out there
+- [O'Neill cylinders](../science/oneill-cylinders.md) — the engineering concept he recognises in the Talos wreckage
+- [Delta-v and orbital mechanics](../science/delta-v-orbital-mechanics.md) — the practical physics of his survey work and the anomalous debris orbits
+
+## See also
+- [The Belt (glossary)](../lore/glossary/the-belt.md) — the frontier setting and the find
+- [The Wheels and Ark (tech)](../lore/tech/the-wheels-and-ark.md) — what the wreckage turns out to be
+- [Asha Rendel](./asha-rendel.md) — the scientist whose chemical case his physical find completes

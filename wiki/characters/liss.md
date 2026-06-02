@@ -45,3 +45,14 @@ they were already dead — they just hadn't been told the date.
 Liss is the **heart** of the deep-past thread and the antidote to its abstraction: she keeps the
 dying *specific*. She is also the structural twin of Asha — two women keeping honest records of a
 death no one will act on in time — a rhyme the prose must never name.
+
+## Science basis
+- [Gain-of-function research](../science/gain-of-function.md) — the science behind the engineered pathogen she documents
+- [Trophic cascade](../science/trophic-cascade.md) — the mechanism by which the biosphere collapse she measures propagates
+- [Feathered dinosaurs](../science/feathered-dinosaurs.md) — the paleobiology of the species she belongs to
+
+## See also
+- [Future generations ethics](../ideas/future-generations-ethics.md) — the clutch as the concrete face of intergenerational obligation
+- [The Plague (tech)](../lore/tech/the-plague.md) — the engineered collapse she tracks in the field
+- [The Clutch (glossary)](../lore/glossary/the-clutch.md) — the reproductive and ethical stake she tends
+- [Iren](./iren.md) — her bondmate; the engineer to her naturalist

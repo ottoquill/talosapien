@@ -42,3 +42,10 @@ the strongest real version (base rates, the contamination problem, diagenesis, t
 extraordinary claims) and never a strawman. He is the book's fairness made flesh — and the proof
 that the failure to heed a warning is not stupidity or malice but *reasonable people being
 reasonable*, which is the most frightening thing of all.
+
+## See also
+- [The Establishment (faction)](../lore/factions/the-establishment.md) — the institution he represents and whose standards he enforces
+- [Silurian hypothesis](../ideas/silurian-hypothesis.md) — the scientific thought experiment at the heart of the claim he resists
+- [The Line (glossary)](../lore/glossary/the-line.md) — the evidence he is asked to evaluate
+- [Iridium anomaly](../science/iridium-anomaly.md) — the real signal at the core of the dispute
+- [Asha Rendel](./asha-rendel.md) — his fair adversary; the warning he must ultimately weigh

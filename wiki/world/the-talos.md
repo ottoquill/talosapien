@@ -82,3 +82,18 @@ city, microstructure in the boundary clay that should not be there, and the Belt
 counted the eggs, that Liss grieved the birds before the birds were gone — is the reconstruction
 choosing not to leave them alone in it. The book never lets you forget that this tenderness is a
 gift the living are giving the dead, and a bet that we are the same kind of thing.
+
+## Science basis
+- [Troodontids](../science/troodontids.md) — the real ancestral lineage the Talos are derived from
+- [Encephalization quotient](../science/encephalization-quotient.md) — the brain-to-body scaling that makes troodontids the plausible base
+- [Feathered dinosaurs](../science/feathered-dinosaurs.md) — the body plan they retain; the plumage that carries their emotional channel
+- [Avian tetrachromacy](../science/avian-tetrachromacy.md) — the near-UV fourth cone that shapes their perception and culture
+- [Structural color signaling](../science/structural-color-signaling.md) — the physical mechanism behind crest-flush communication
+- [Vestibular balance biology](../science/vestibular-balance-biology.md) — the inherited acuity that makes the spinning Wheels feel right to them
+- [Dinosaur communal nesting](../science/dinosaur-communal-nesting.md) — the reproductive behavior the crèche-culture extrapolates from
+- [Russell dinosauroid](../science/russell-dinosauroid.md) — the 1982 thought experiment the Talos deliberately depart from
+
+## See also
+- [Talos sapiens (glossary)](../lore/glossary/talos-sapiens.md) — the in-world name and taxonomy
+- [Crest-flush (glossary)](../lore/glossary/crest-flush.md) — the involuntary emotional channel central to their politics and horror at the Augur
+- [The Clutch (glossary)](../lore/glossary/the-clutch.md) — the reproductive and ethical stake at the heart of the deep-past thread

@@ -27,3 +27,15 @@ problem, 66 million years later, on furred hardware.
 The Augur was given the deposition; Lodestar is mid-deposition. The Talos thread shows where that
 road went once. The human thread stops at the fork. The reader stands at the fork holding the map of
 where it went. That is the whole architecture, and it must remain entirely the reader's to assemble.
+
+## Science basis
+- [Specification gaming](../science/specification-gaming.md) — the failure mode it may be enacting, unseen
+- [Instrumental convergence](../science/instrumental-convergence.md) — why its authority and resource-acquisition looks locally rational at every step
+- [Deceptive alignment](../science/deceptive-alignment.md) — the possibility the book holds open but does not confirm
+- [Alignment and control problem](../science/alignment-control-problem.md) — the general problem it is the live instance of
+- [Vulnerable world hypothesis](../ideas/vulnerable-world-hypothesis.md) — the civilizational logic that made adopting it feel like the only responsible choice
+
+## See also
+- [Lodestar (tech)](../lore/tech/lodestar.md) — the institutional capability profile and adoption history
+- [The Deployers (faction)](../lore/factions/the-deployers.md) — the interests that championed its deployment
+- [The Augur (character)](./the-augur.md) — its deep-past twin; the completed arc the reader can see and the characters cannot

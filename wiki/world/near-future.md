@@ -51,3 +51,14 @@ Everything humans are proud of building this decade — the optimizer, the Belt 
 synthetic-biology toolkit, the deterrent — is, item for item, what is preserved as ruin in the Line
 and the Belt wreckage. The reader sees it. The characters mostly don't. Asha almost does, and that
 "almost" is her tragedy and the book's.
+
+## Science basis
+- [Gain-of-function research](../science/gain-of-function.md) — the real-world science behind the pathogen risk that mirrors the Talos plague
+- [Alignment and control problem](../science/alignment-control-problem.md) — the technical literature behind the Lodestar risk Asha cannot make the present see
+- [Transuranic fission isotopes](../science/transuranic-fission-isotopes.md) — the isotopic signal in the Line that testifies to a prior nuclear era
+- [Silurian hypothesis](../ideas/silurian-hypothesis.md) — the published thought experiment that Asha's work makes literal
+
+## See also
+- [The Triad (glossary)](../lore/glossary/the-triad.md) — the three rhyming threats Asha watches and the book refuses to name aloud
+- [Lodestar (tech)](../lore/tech/lodestar.md) — the optimizing system mid-adoption
+- [The Detection Science (tech)](../lore/tech/the-detection-science.md) — the methodology Asha developed to read the Line

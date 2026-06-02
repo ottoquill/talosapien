@@ -62,3 +62,15 @@ and sedimentation. What does, and what the novel is allowed to hang evidence on:
 - **Tool-marked bone** and a few mineralized fragments at the deathbed deposit.
 - **The Belt wreckage** — the only large physical artifacts, preserved because space erodes slowly.
 - **Nothing legible.** No text, no image, no name, no face. The hard floor of the reconstruction.
+
+## Science basis
+- [Deccan Traps](../science/deccan-traps.md) — the real co-stressor the Talos used as industrial cover and natural alibi
+- [Maastrichtian](../science/maastrichtian.md) — the geological age; the real stratigraphic context
+- [Late Cretaceous paleogeography](../science/late-cretaceous-paleogeography.md) — the real continental and sea-level configuration of the stage
+- [Cretaceous hothouse climate](../science/cretaceous-hothouse-climate.md) — the baseline warm world the Talos industrialized
+- [Tanis deathbed deposit](../science/tanis-deathbed-deposit.md) — the real formation that becomes Iren and Liss's heartland city
+- [K–Pg boundary](../science/kpg-boundary.md) — the terminal event and the layer that hides and reveals everything
+
+## See also
+- [The Heartland City (glossary)](../lore/glossary/the-heartland-city.md) — the deathbed metropolis and Asha's excavation site
+- [The Deccan Works (glossary)](../lore/glossary/the-deccan-works.md) — the Talos industrial and launch complex sited on the erupting province

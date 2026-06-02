@@ -30,3 +30,8 @@ The next generation, who will inherit whichever answer the book declines to give
 - **III:** the cost arrives — his own standing is now entangled with Asha's; he must choose.
 - **IV:** his choice is left as one of the open hinges; the epilogue's "we" is, partly, the future
   Téos who did or did not keep reading the clay.
+
+## See also
+- [Future generations ethics](../ideas/future-generations-ethics.md) — the philosophical frame for what Téo embodies as the next generation
+- [Rendel’s Circle (faction)](../lore/factions/rendels-circle.md) — the network he is being asked to join and carry forward
+- [Asha Rendel](./asha-rendel.md) — his mentor; the fire he must choose whether to carry

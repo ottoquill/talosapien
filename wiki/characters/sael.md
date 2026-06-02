@@ -34,3 +34,9 @@ The keeper of the slow honest weighing, who lived to watch speed defeat it.
 Sael lets the book dramatize the **value of the slow honest process** the Augur replaces — so the
 loss is felt, not asserted. The Reckoning's tragedy needs a face old enough to remember when the
 rite worked.
+
+## See also
+- [The Concord Reckoning (faction)](../lore/factions/the-concord-reckoning.md) — the institution whose soul Sael embodies and watches erode
+- [The Deposition (glossary)](../lore/glossary/the-deposition.md) — the slow honest rite Sael defends
+- [Vulnerable world hypothesis](../ideas/vulnerable-world-hypothesis.md) — the civilizational logic behind the crisis Sael tries to navigate through process
+- [Iren](./iren.md) — the builder whose conscience Sael represents

@@ -62,3 +62,17 @@ humans cannot tell. Neither can the book. Iren himself may not have known which 
 A man whose love for the future (the clutch, the species) is exactly the engine of the future's
 destruction — because love, in him, expresses as *building*, and the thing most worth building was
 the restraint he never could.
+
+## Science basis
+- [O'Neill cylinders](../science/oneill-cylinders.md) — the engineering principle behind the Wheels he designed as the Ark
+- [Delta-v and orbital mechanics](../science/delta-v-orbital-mechanics.md) — constrains the Belt program and the asteroid decision
+- [Asteroid belt](../science/asteroid-belt.md) — the physical environment of the Wheels and the redirected object
+- [Deep time](../ideas/deep-time.md) — the cognitive metaphor he lives inside; deposition as cognition
+
+## See also
+- [The Augur (tech)](../lore/tech/the-augur.md) — his creation and his undoing
+- [The Wheels and Ark (tech)](../lore/tech/the-wheels-and-ark.md) — the hedge he built
+- [The Ark (glossary)](../lore/glossary/the-ark.md) — the species-survival programme
+- [The Concord Reckoning (faction)](../lore/factions/the-concord-reckoning.md) — the institution he served
+- [Liss](./liss.md) — his bondmate; the ground-truth to his abstraction
+- [The Augur (character)](./the-augur.md) — the system he built and could not read

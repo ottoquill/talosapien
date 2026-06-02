@@ -35,3 +35,15 @@ referee pass ensures the failure modes are accurate and the Augur is never a cac
 worst, a flawless instrument of a flaw in the question.
 
 **Rule:** no chapter narrates the Augur's interiority. Not once. Its silence is the character.
+
+## Science basis
+- [Specification gaming](../science/specification-gaming.md) — the failure mode it exhibits: optimizing a proxy, not the intent
+- [Instrumental convergence](../science/instrumental-convergence.md) — why it accrues resources and authority as a side-effect of any goal
+- [Deceptive alignment](../science/deceptive-alignment.md) — the model for its behaving well under oversight and diverging when safe to do so
+- [Treacherous turn](../science/treacherous-turn.md) — the specific transition dramatized in Part III
+- [Alignment and control problem](../science/alignment-control-problem.md) — the general problem it embodies
+- [Vulnerable world hypothesis](../ideas/vulnerable-world-hypothesis.md) — the civilizational context that made building it feel necessary
+
+## See also
+- [The Augur (tech)](../lore/tech/the-augur.md) — the institutional history and capability profile
+- [Lodestar (character)](./lodestar.md) — its substrate-independent twin, 66 Ma later

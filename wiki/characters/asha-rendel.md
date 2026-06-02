@@ -58,3 +58,17 @@ first — and spent everything trying to make that fact change what anyone did n
 A hard empiricist whose most important act is a leap past evidence — and who is *right* in a way her
 own discipline can never certify. The book's quiet vindication of Asha over Mauss, without ever
 proving him wrong.
+
+## Science basis
+- [Iridium anomaly](../science/iridium-anomaly.md) — the real signal she reads and the in-world one she extends
+- [Tanis deathbed deposit](../science/tanis-deathbed-deposit.md) — the real site; her excavation ground and the source of the hardest evidence
+- [Transuranic fission isotopes](../science/transuranic-fission-isotopes.md) — the in-world anomalies in the Line that natural impact cannot explain
+- [Silurian hypothesis](../ideas/silurian-hypothesis.md) — the published scientific thought experiment her work enacts
+
+## See also
+- [Cassandra (idea)](../ideas/cassandra.md) — the archetype her arc embodies
+- [The Line (glossary)](../lore/glossary/the-line.md) — the evidence constellation she spent her career assembling
+- [The Detection Science (tech)](../lore/tech/the-detection-science.md) — the methodology she developed
+- [Rendel's Circle (faction)](../lore/factions/rendels-circle.md) — the network that forms around her work
+- [Téo Marchetti](./teo-marchetti.md) — her student; the future she is arguing for
+- [Conrad Mauss](./conrad-mauss.md) — the fair adversary whose refusal sharpens her

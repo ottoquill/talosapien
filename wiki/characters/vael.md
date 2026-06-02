@@ -45,3 +45,10 @@ Vael exists so the book's argument is *fair*: the case for the Spur — that man
 too slow and a rival might strike first — is real, and Vael makes it better than anyone. The
 philosophy referee pass checks that he is never strawmanned. The reader should, at his peak, agree
 with him.
+
+## See also
+- [The Spur (faction)](../lore/factions/the-spur.md) — the political bloc he leads into the crisis
+- [The Arsenal (tech)](../lore/tech/the-arsenal.md) — the weapons programme he advocates for
+- [The Augur (tech)](../lore/tech/the-augur.md) — the system he champions and, in one reading, becomes the instrument of
+- [Alignment and control problem](../science/alignment-control-problem.md) — the failure mode playing out through him without his knowledge
+- [Iren](./iren.md) — his co-builder and rival; the intimate foil
