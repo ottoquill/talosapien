@@ -6,7 +6,7 @@ a future public wiki. Two timelines, 66 million years apart, one pattern.
 ## Start here
 - [Outline & Beat Sheet](outline.md) — the chapter-by-chapter blueprint.
 - [Timeline](timeline.md) — the two clocks and how they braid.
-- [Glossary](glossary.md) — locked terms (deep past + near future).
+- [Glossary](glossary.md) — locked terms (deep past + near future); each entry links to its dedicated lore page.
 - [Factions](factions.md) — who wants what, in both eras; the structural rhyme.
 
 ## The worlds
@@ -19,6 +19,18 @@ a future public wiki. Two timelines, 66 million years apart, one pattern.
   detection science, the asteroid.
 - [Philosophy & Science Map](philosophy/philosophy-map.md) — what each idea is, who carries it,
   where it's dramatized.
+
+## Science
+- [Science index](science/00-science-index.md) — 37 cited pages covering K–Pg geology, geochemistry, paleobiology, space engineering, and AI alignment/bio-risk.
+
+## Ideas & Scholarship
+- [Ideas index](ideas/00-ideas-index.md) — 11 pages: Silurian Hypothesis, Fermi paradox, Great Filter, Vulnerable World Hypothesis, future-generations ethics, deep time, block universe, Cassandra, Ozymandias, and more.
+
+## Lore (atomized)
+Per-entry detail pages live in three directories:
+- [Glossary hub](glossary.md) → individual pages in [lore/glossary/](lore/glossary/)
+- [Factions hub](factions.md) → individual pages in [lore/factions/](lore/factions/)
+- [Technology hub](tech/technology.md) → individual pages in [lore/tech/](lore/tech/)
 
 ## Characters
 **Deep past (names assigned by the reconstruction):**
