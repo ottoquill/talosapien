@@ -23,4 +23,4 @@ The Talos word for the institution translates closer to *the accounting* or *the
 - [The Deposition](./the-deposition.md)
 - [Iren](../../characters/iren.md)
 - [Sael](../../characters/sael.md)
-- [Factions](../factions/the-reckoning.md)
+- [The Concord Reckoning (faction)](../factions/the-concord-reckoning.md)
