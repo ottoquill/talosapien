@@ -10,7 +10,7 @@ In *Agamemnon*, Cassandra appears as a captive of the returning king Agamemnon, 
 
 The Cassandra figure thus crystallizes a specific human predicament: not ignorance, but *unheeded knowledge*. The horror is not that the warning is wrong but that it is right and inert — true vision stripped of the power to persuade or prevent. The image has long outlived its mythic origin, becoming shorthand for anyone whose accurate alarm is structurally disbelieved.
 
-## The idea — established vs. open
+## Established vs. open
 **Established:** As a *literary* matter, this is firm ground. *Agamemnon* is a securely dated tragedy (458 BCE) and the Cassandra scene is one of its central episodes; the text is public-domain and widely available in translation [aeschylus458]. The archetype's meaning — true prophecy, certain disbelief — is unambiguous in the play.
 
 **Open / debated:** This is myth and drama, not a factual claim about the world, so "open questions" are interpretive: how to read the curse, what the scene says about prophecy, persuasion, and culpability. Translations differ in wording; the novel, like this page, quotes only public-domain text.

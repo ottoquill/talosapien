@@ -10,7 +10,7 @@ Parfit devotes the final part of *Reasons and Persons* to future generations [pa
 
 Scheffler approaches the question from a different angle. In *Death and the Afterlife* — drawn from his Berkeley Tanner Lectures and published with commentaries — he uses a thought experiment (imagine learning that, though you will live a normal lifespan, all human life will end shortly after your own death) to argue that the prospect would drain much present activity of its meaning [scheffler2013]. His conclusion is that the survival of humanity beyond our individual lives — what he calls the "afterlife," meaning the ongoing human future, not a personal one — matters to us to a degree we rarely acknowledge, and in some respects more than our own survival [scheffler2013]. The continuation of people we will never meet is, he argues, quietly load-bearing for the value we find in our own lives.
 
-## The idea — established vs. open
+## Established vs. open
 **Established:** These are the canonical philosophical texts of the field, and their core moves are not in dispute as *positions*: Parfit really did set the agenda for population ethics and identify the non-identity difficulty [parfit1984]; Scheffler really does argue that humanity's continuation matters profoundly to the living [scheffler2013]. Future-generations ethics is a recognized, active area of moral philosophy.
 
 **Open / debated:** Almost every substantive answer — how to weigh future against present interests, how to handle the non-identity problem, whether there is a duty to *create* happy people, how much humanity's continuation grounds present meaning. These are arguments, not settled facts, and reasonable philosophers disagree.

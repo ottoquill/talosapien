@@ -10,7 +10,7 @@ Eternalism contrasts with "presentism" (only the present moment is real) and the
 
 The conclusion many draw is that the apparent *flow* or *passage* of time is not part of the fundamental furniture of the world — physics describes the ordering and geometry of events but, as Savitt's SEP survey notes, "seem[s] to find no place" for passage itself [sep-bebecome]. The block universe is the metaphysical picture that takes this seriously: every event, including every future one, is "already there" in the four-dimensional whole.
 
-## The idea — established vs. open
+## Established vs. open
 **Established:** That relativity makes simultaneity frame-relative is settled physics. That this *has been used* to argue for eternalism, via the Rietdijk–Putnam argument, is a real and well-documented strand of the philosophy of time [putnam1967][sep-bebecome].
 
 **Open / debated:** Whether the argument actually succeeds, and whether the block universe is *true*, are very much open philosophical questions, not settled facts. The SEP survey stresses that reactions to relativity here are nuanced and "it seems unlikely that a simple argument will decide between these two metaphysical pictures" [sep-bebecome]. The block universe should be presented — and is presented in this novel — as a contested philosophical position, not as established physics.

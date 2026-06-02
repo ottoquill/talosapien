@@ -10,7 +10,7 @@ Parfit develops the problem in Part Four of *Reasons and Persons* [parfit1984]. 
 
 This is unsettling because it appears to vindicate intuitively wrong choices: a "depletion" policy seems clearly bad, yet there may be no particular person who is worse off than they otherwise would have been. The Stanford Encyclopedia of Philosophy summarizes the puzzle as the difficulty that any change we contemplate "will often fail to make *that* person better off and often instead serve only to bring another person … into existence in place of the one" [sep-nonidentity]. The problem has driven much of population ethics: attempts to solve it include impersonal principles (what matters is the *quality* of the future, not whether identifiable individuals are harmed), wide person-affecting views, and others — none uncontroversially successful.
 
-## The idea — established vs. open
+## Established vs. open
 **Established:** That the problem is *real* and was decisively framed by Parfit is not in dispute [parfit1984][sep-nonidentity]. It is a genuine and widely discussed difficulty: identity-affecting choices resist analysis in ordinary "harm to a person" terms.
 
 **Open / debated:** Whether — and how — it can be solved. There is no consensus solution; impersonal approaches, person-affecting refinements, and skeptical responses all have defenders and critics [sep-nonidentity]. The problem is a permanent fixture of the field precisely because it has no agreed answer.

@@ -10,7 +10,7 @@ The modern recognition of deep time is usually traced to James Hutton, whose 178
 
 The intuition is far older. In the 1st century BCE, the Roman poet Lucretius, expounding Epicurean physics in *De rerum natura* ("On the Nature of Things"), argued that the universe is built from indestructible atoms moving in an infinite void, that "nothing comes from nothing and nothing is reduced to nothing," and that matter and time extend without bound — observable things being only temporary compounds that form and dissolve [lucretius]. Lucretius offers no geology, but he supplies the same imaginative move: the present arrangement of the world is a passing eddy in something vastly larger and older, and the fear of endings loses its grip once one sees the scale [lucretius].
 
-## The idea — established vs. open
+## Established vs. open
 **Established:** That the Earth is extremely old (about 4.5 billion years) and that its strata record processes over millions of years is settled science, foreshadowed by Hutton and confirmed by radiometric dating. Hutton's paper and its closing line are matters of record [hutton1788]. Lucretius's poem and its atomist doctrine are likewise well attested [lucretius].
 
 **Open / debated:** Deep time as *science* is not in dispute. What remains genuinely hard — and is more a matter of cognition and culture than of fact — is whether and how humans can intuitively *feel* such spans, and what that does to ethics and meaning. Lucretius's specific physics (infinite void, eternal atoms) is a historical philosophical position, not modern cosmology, and should be read as such.

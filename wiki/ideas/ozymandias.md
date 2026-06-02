@@ -13,7 +13,7 @@ Shelley's sonnet was first published on 11 January 1818 in *The Examiner*, the L
 
 The sonnet's force comes from the gap between that boast and what follows it: "Nothing beside remains. Round the decay / Of that colossal Wreck, boundless and bare / The lone and level sands stretch far away" [shelley1818]. The works the king commanded the mighty to envy are gone; only the sand remains, indifferent. The poem's irony is structural — the monument built to defeat time has become time's most eloquent witness.
 
-## The idea — established vs. open
+## Established vs. open
 **Established:** As a literary and bibliographic matter this is firm. The sonnet, its 1818 first publication in *The Examiner*, its authorship by Shelley (under the pen name Glirastes), and its theme of the impermanence of power are well documented [shelley1818]. The text is public-domain.
 
 **Open / debated:** Only interpretive matters — emphasis, the role of the sculptor's "hand that mocked," the politics of Shelley's anti-tyranny reading. There is no factual dispute; this is a poem.
