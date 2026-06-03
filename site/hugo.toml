@@ -1,0 +1,21 @@
+# Talosapien wiki — Hugo + Hugo Book theme.
+# Content is generated from ../wiki by generate.mjs into ./content (gitignored).
+baseURL = "https://example.com/"   # overridden at deploy via HUGO_BASEURL
+title = "Talosapien — Story Bible"
+theme = "hugo-book"
+enableGitInfo = false
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  BookSection = "*"   # build the menu from all root sections (no docs/ wrapper)
+  BookToC = true
+  BookSearch = true
+  BookRepo = ""
+  BookComments = false
+
+[markup.goldmark.renderer]
+  unsafe = false   # wiki is trusted-but-clean Markdown; no raw HTML in the corpus
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 3

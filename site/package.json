@@ -1,0 +1,15 @@
+{
+  "name": "talosapien-wiki",
+  "private": true,
+  "description": "Public Hugo site generated from ../wiki, deployed to Cloudflare Workers.",
+  "scripts": {
+    "generate": "node generate.mjs",
+    "build": "node generate.mjs && hugo --gc --minify",
+    "dev": "node generate.mjs && hugo server",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "devDependencies": {
+    "hugo-extended": "0.159.0",
+    "wrangler": "^4"
+  }
+}

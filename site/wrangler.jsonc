@@ -1,0 +1,9 @@
+{
+  // Static-assets-only Worker (no script). Serves Hugo's ./public output.
+  "name": "talosapien-wiki",
+  "compatibility_date": "2026-04-23",
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "404-page"
+  }
+}
