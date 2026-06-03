@@ -51,6 +51,11 @@ Per-entry detail pages live in three directories:
 - [Style Sheet](../editorial/style-sheet.md) — the binding prose constitution.
 - [Continuity Ledger](../editorial/continuity-ledger.md) — locked facts and motif ledger.
 
+## Meta
+- [How *Talosapien* Was Made](how-talosapien-was-made.md) — the production process: the human/AI
+  division of labor, the character-subagent drafting and six-referee editorial panel, and the
+  zero-hallucination sourcing behind the science pages.
+
 ---
 *All contents © 2026 Otto Quill. All rights reserved. A work of fiction; the science is real where
 the book leans on it.*
