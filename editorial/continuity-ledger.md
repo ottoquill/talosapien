@@ -134,7 +134,11 @@ established in a chapter. Two timelines; keep them straight.
   a small worked vessel set down on the made ground, left where it lay ("Somebody set it down. They
   didn't come back."). The object is kilometers of rotating habitat, spin decayed, empty.
 - Roan first reached Asha via the survey-net relay through dispatch contact **Mara**; first contact
-  was recorded messages across the ~14-light-minute lag.
+  was recorded messages across the ~14-light-minute lag. **Belt distance is locked at ~14 light-minutes
+  ≈ a quarter-billion km (~1.7 AU)** — a real near-side belt distance. If rendered in km, use
+  "a quarter-billion kilometers," never a figure that disagrees with the 14-light-minute lag (an
+  earlier draft of Ch18 said "a hundred million kilometers," ~5.5 light-min — too close for the Belt;
+  corrected 2026-06-02).
 - **The sub-Boundary bed (Ch18):** the three-lab BLIND results returned POSITIVE in all three (muted
   δ15N, carbon, trace transuranic skew) in a layer pre-dating the impact — kills the impact-day
   alibi; still deniable via downward fluid percolation.
